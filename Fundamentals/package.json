@@ -1,0 +1,17 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "learning socket.io fundamentals by building a chat app using html, css and js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Vaibhav Chitransh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1"
+  }
+}
